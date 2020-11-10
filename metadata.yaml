@@ -1,0 +1,25 @@
+_repo: Pirun-miekka-Runonaytelma_63539
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Elenius, Emil
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '52409'
+    url: http://www.gutenberg.org/2009/agents/52409
+    wikipedia: https://fi.wikipedia.org/wiki/Emil_Elenius
+description: ''
+gutenberg_issued: '2020-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63539'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Pirun miekka: Runonäytelmä'
+url: http://www.gutenberg.org/ebooks/63539
